@@ -1,0 +1,46 @@
+Table 1: Open Web Steel Joist
+Joist Sections
+Joist depth (mm)
+Maximum Applied UDL (kN/m)
+Maximum Joist Span (m)
+Joist Dead load (kN/m)
+#1
+600
+12
+8
+0.149
+#2
+750
+12
+11
+0.176
+#3
+650
+15
+8
+0.153
+#4
+800
+15
+11
+0.21
+#5
+650
+18
+8
+0.176
+#6
+900
+18
+11
+0.241
+#7
+700
+21
+8
+0.209
+#8
+900
+21
+11
+0.273
