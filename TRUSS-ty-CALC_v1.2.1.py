@@ -10,8 +10,7 @@ from typing import Tuple
 import re
 from gc import collect
 from matplotlib import pyplot as plt
-from mpl_toolkits.axes_grid1.inset_locator import zoomed_inset_axes
-from mpl_toolkits.axes_grid1.inset_locator import mark_inset
+from mpl_toolkits.axes_grid1.inset_locator import zoomed_inset_axes, mark_inset
 from copy import deepcopy
 
 
