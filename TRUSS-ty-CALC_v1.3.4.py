@@ -1,4 +1,6 @@
-""" Copyright © 2023, Spencer Hiscox. All rights Reserved.
+""" 
+Copyright© 2023, Spencer Hiscox
+All rights Reserved
 """
 
 
